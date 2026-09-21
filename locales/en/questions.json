@@ -1,0 +1,16 @@
+{
+  "mainProblem": "What is your main problem today?",
+  "fever": "Fever",
+  "cough": "Cough",
+  "pain": "Pain",
+  "nausea": "Nausea / Vomiting",
+  "whenStarted": "When did the fever start?",
+  "today": "Today",
+  "yesterday": "Yesterday",
+  "daysAgo": "2-3 days ago",
+  "lastWeek": "Last week",
+  "severity": "How severe is the pain/discomfort?",
+  "associated": "Do you have any associated symptoms?",
+  "medicationsTried": "Have you taken any medications?",
+  "listening": "Listening... 🔴"
+}

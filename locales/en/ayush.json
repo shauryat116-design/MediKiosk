@@ -1,0 +1,13 @@
+{
+  "title": "AYUSH Prakriti Assessment",
+  "subtitle": "Discover your body constitution (Vata, Pitta, Kapha)",
+  "frame": "Body Frame",
+  "skin": "Skin Type",
+  "hair": "Hair Type",
+  "appetite": "Appetite & Digestion",
+  "thin": "Thin / Slender (Vata)",
+  "medium": "Medium / Athletic (Pitta)",
+  "heavy": "Heavy / Sturdy (Kapha)",
+  "result": "Your Prakriti Result",
+  "healthTips": "📋 Health & Dietary Recommendations"
+}
